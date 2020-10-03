@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="975fbc09-7ea2-45b1-9a7d-69685a643a2c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1iLmqE4etavD0ZdwupxSdlnQKY3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.html">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/rsvp-app/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="app.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/app.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="Node.js.app.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="975fbc09-7ea2-45b1-9a7d-69685a643a2c" name="Default Changelist" comment="" />
+      <created>1601695434571</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601695434571</updated>
+      <workItem from="1601695435622" duration="1040000" />
+      <workItem from="1601698560093" duration="409000" />
+      <workItem from="1601699102919" duration="75000" />
+      <workItem from="1601699409311" duration="138000" />
+      <workItem from="1601699576259" duration="531000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2240" y="695" key="FileChooserDialogImpl" timestamp="1601699545964">
+      <screen x="1920" y="0" width="1080" height="1880" />
+    </state>
+    <state x="2240" y="695" key="FileChooserDialogImpl/0.0.1920.1040/-1080.0.1080.1880/1920.0.1080.1880@1920.0.1080.1880" timestamp="1601699545964" />
+    <state width="1059" height="551" key="GridCell.Tab.0.bottom" timestamp="1601698174886">
+      <screen x="1920" y="0" width="1080" height="1880" />
+    </state>
+    <state width="1059" height="551" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1080.0.1080.1880/1920.0.1080.1880@1920.0.1080.1880" timestamp="1601698174886" />
+    <state width="1059" height="551" key="GridCell.Tab.0.center" timestamp="1601698174885">
+      <screen x="1920" y="0" width="1080" height="1880" />
+    </state>
+    <state width="1059" height="551" key="GridCell.Tab.0.center/0.0.1920.1040/-1080.0.1080.1880/1920.0.1080.1880@1920.0.1080.1880" timestamp="1601698174885" />
+    <state width="1059" height="551" key="GridCell.Tab.0.left" timestamp="1601698174885">
+      <screen x="1920" y="0" width="1080" height="1880" />
+    </state>
+    <state width="1059" height="551" key="GridCell.Tab.0.left/0.0.1920.1040/-1080.0.1080.1880/1920.0.1080.1880@1920.0.1080.1880" timestamp="1601698174885" />
+    <state width="1059" height="551" key="GridCell.Tab.0.right" timestamp="1601698174886">
+      <screen x="1920" y="0" width="1080" height="1880" />
+    </state>
+    <state width="1059" height="551" key="GridCell.Tab.0.right/0.0.1920.1040/-1080.0.1080.1880/1920.0.1080.1880@1920.0.1080.1880" timestamp="1601698174886" />
+  </component>
+</project>
