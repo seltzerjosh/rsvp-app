@@ -91,7 +91,7 @@ document.addEventListener('DOMContentLoaded', () => {
             if (nameActions.repeatCheck()) {
                 error.textContent = 'Already on list';
                 error.style.display = '';
-            } else if (text.length == 0) {
+            } else if (text.length === 0) {
                 error.textContent = 'blank submission';
                 error.style.display = '';
             } else if (text.length > 0) {
